@@ -1,0 +1,31 @@
+.app {
+  width: 95%;
+  margin: auto;
+}
+
+.heading {
+  text-align: center;
+  margin: 30px 0 15px 0;
+  font-size: 18px;
+}
+
+.input-field {
+  padding: 0 5px;
+  border-radius: 5px;
+  outline: none;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.list {
+  padding: 5px;
+  font-size: 16px;
+  border: 1px solid #719a8e;
+  border-radius: 5px;
+  margin-top: 5px;
+}
+
+.list:hover {
+  background: #e3e0e0;
+  cursor: pointer;
+}
